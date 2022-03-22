@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="187839" started-at="2022-03-16T09:05:11Z" finished-at="2022-03-16T09:08:19Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="187839" started-at="2022-03-16T09:05:11Z" finished-at="2022-03-16T09:08:19Z">
+      <class name="finalPackage.ExecutionFlipkart">
+        <test-method status="PASS" signature="browserLaunch()[pri:0, instance:finalPackage.ExecutionFlipkart@3108bc]" name="browserLaunch" is-config="true" duration-ms="45413" started-at="2022-03-16T14:35:11Z" finished-at="2022-03-16T14:35:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserLaunch -->
+        <test-method status="PASS" signature="miphoneProduct()[pri:0, instance:finalPackage.ExecutionFlipkart@3108bc]" name="miphoneProduct" duration-ms="142290" started-at="2022-03-16T14:35:57Z" finished-at="2022-03-16T14:38:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- miphoneProduct -->
+      </class> <!-- finalPackage.ExecutionFlipkart -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
